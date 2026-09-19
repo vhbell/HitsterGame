@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269566142018",
+    "project_id": "hitster-d0e18",
+    "storage_bucket": "hitster-d0e18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269566142018:android:d82efc883247b5fa34afdb",
+        "android_client_info": {
+          "package_name": "no.victoria.hitster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdoSZcSNJbgxeDJxIc1P8zJ8ixpzqKTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269566142018:android:b67ce81ef1d4645734afdb",
+        "android_client_info": {
+          "package_name": "no.victoria.hitsterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdoSZcSNJbgxeDJxIc1P8zJ8ixpzqKTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
